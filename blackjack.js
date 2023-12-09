@@ -1,7 +1,7 @@
 
 let player=
 {
-  name:Harmy,
+  name:DevadathHarm,
   chips:120
 }
 let cards = []
